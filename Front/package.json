@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/cli": "^13.3.11",
+    "ngx-spinner": "^17.0.0"
+  }
+}
